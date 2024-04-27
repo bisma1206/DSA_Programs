@@ -1,0 +1,1 @@
+prompt('hello,how are u?')
